@@ -1,9 +1,3 @@
-{
-  "description": "出力文の品質分析・スコアリング",
-  "report_file": "evaluation_report.csv",
-  "metrics": [
-    "readability",
-    "seo_density",
-    "uniqueness"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f9e906940ae59e0936e8e14bdb287ecd9dbea59a39e2581002b359be7ba13c8
+size 185

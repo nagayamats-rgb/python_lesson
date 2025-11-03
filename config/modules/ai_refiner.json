@@ -1,6 +1,3 @@
-{
-  "description": "OpenAI APIを用いた文の自然化・最適化",
-  "output_file": "output_final.csv",
-  "use_batch": true,
-  "max_retries": 3
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e273ec1d7c81a8febc8458bcdd10bc707ff88f0a95284ef3a0b1a4117266686a
+size 150
