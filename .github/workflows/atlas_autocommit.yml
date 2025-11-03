@@ -2,9 +2,12 @@ name: Atlas AutoCommit Sync
 
 on:
   push:
-  schedule:
-    - cron: '0 12 * * *'  # 毎日21時（日本時間）に自動実行
-  workflow_dispatch:      # 手動実行も可
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write   # ✅ GitHub Actionsにpush権限を付与
 
 jobs:
   autocommit:
@@ -14,32 +17,30 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          lfs: true  # LFSファイルも取得
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: "3.10"
 
       - name: Install dependencies
         run: |
-          pip install --upgrade pip
-          pip install -r requirements.txt || true
+          python -m pip install --upgrade pip
+          pip install python-dotenv openai
 
       - name: Run Atlas AutoCommit bridge
         run: |
-          echo "🚀 Running Atlas bridge commit..."
-          python atlas_timeline_autocommit.py || echo "No changes to commit."
+          echo "🧭 Running Atlas bridge..."
+          python atlas_timeline_autocommit.py || true
 
       - name: Configure Git identity
         run: |
-          git config --global user.name "Atlas AutoCommit"
-          git config --global user.email "atlas@auto.commit"
+          git config --global user.name "Atlas AutoCommit Bot"
+          git config --global user.email "actions@github.com"
 
       - name: Commit & push changes (if any)
         run: |
           git add -A
-          git diff --cached --quiet || git commit -m "🪶 Atlas AutoCommit: sync $(date +'%Y-%m-%d %H:%M')"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git commit -m "🪶 Atlas AutoCommit: sync $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
+          git push origin main || echo "No changes to push"
