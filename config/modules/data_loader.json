@@ -1,0 +1,9 @@
+{
+  "description": "入力CSVの整形と構造化",
+  "output_file": "structured_preview.csv",
+  "backup_file": "input_backup.csv",
+  "encoding_priority": [
+    "cp932",
+    "utf-8-sig"
+  ]
+}

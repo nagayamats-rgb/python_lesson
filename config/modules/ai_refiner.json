@@ -1,0 +1,6 @@
+{
+  "description": "OpenAI APIを用いた文の自然化・最適化",
+  "output_file": "output_final.csv",
+  "use_batch": true,
+  "max_retries": 3
+}

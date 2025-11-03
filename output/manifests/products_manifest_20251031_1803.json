@@ -1,0 +1,686 @@
+{
+  "meta": {
+    "source": "input.csv",
+    "generated_at": "20251031_1803",
+    "total_rows": 21730,
+    "valid_products": 135,
+    "used_column": "商品名"
+  },
+  "products": [
+    {
+      "id": "p0001",
+      "name": "【楽天1位獲得】マグセーフ充電器 iphone MagSafe 15W 充電器 小型 スタンド付き 磁気充電器 iphoneワイヤレス充電器 iPhone16 急速 iPhone充電器 ワイヤレスチャージャー Iphone qi magsafe充電器 軽量 薄型 PD リングスタンド ブラック ホワイト",
+      "genre_id": "567248"
+    },
+    {
+      "id": "p0199",
+      "name": "480円</b></font></td><td width=\"\"33.33%\"\"><font color=\"\"#bf0000\"\"><b>2",
+      "genre_id": null
+    },
+    {
+      "id": "p0395",
+      "name": "/mag-t.jpg",
+      "genre_id": "magsafe充電器ワイヤレス充電器iPhone12マグセーフ薄型PD15w磁石ケーブル急速充電Qi充電おくだけワイヤレスチャージャーマグネットアンドロイドiphone12miniiphone12proiphon12promaxメール便送料無料"
+    },
+    {
+      "id": "p0402",
+      "name": "スマホケース 手帳型 iPhone14プロ iPhone13Pro 12ProMax 13mini 13ProMax 14プラス iPhoneケース 14ProMax アイフォンケース 携帯カバーiPhone手帳型 アイホンケース 送料無料",
+      "genre_id": "560271"
+    },
+    {
+      "id": "p0741",
+      "name": "/iphone-bc/t-ip-book.jpg",
+      "genre_id": "iPhone12手帳型ケースPUレザースマホケース携帯カバー多機能マグネット開閉iPhone12miniiPhone12iPhone12ProiPhone12ProMax黒青赤茶ピンクメール便送料無料"
+    },
+    {
+      "id": "p0798",
+      "name": "iphone13プロマックス ブルーライトカット スマホフィルム ガラスフィルム iPhone 画面 保護フィルム 12プロマックス 画面シート アイフォーン 保護シート 携帯シール ポッキリ 買い回り 買い周り セール マラソン 送料無料 ポイント消化",
+      "genre_id": "560278"
+    },
+    {
+      "id": "p1139",
+      "name": "/iphonefilm/t-iphone-antiblue.jpg",
+      "genre_id": "iPhone12保護フィルムガラスフィルムブルーライトカット強化ガラスiPhone12miniiPhone12iPhone12ProiPhone12ProMax耐衝撃メール便送料無料"
+    },
+    {
+      "id": "p1149",
+      "name": "【満足度98％!!】iphone ガラスフィルム 指紋つかない 画面保護フィルム iphone17フィルム さらさら アンチグレア 保護シート iphoneフィルム 指紋防止 さらさらタッチ ゲームにも最適 全機種対応 iPhone16 15 13 12 11 保護ガラス アイフォン",
+      "genre_id": "560278"
+    },
+    {
+      "id": "p1493",
+      "name": "/t-antiglare-1.jpg",
+      "genre_id": "iPhone1211Xガラスフィルム保護フィルム超さらさらアンチグレアゲームに最適マット強化ガラスiPhone12miniiPhone12iPhone12ProiPhone12ProMaxiPhone11XRProXXSProMaxXSmaxメール便送料無料"
+    },
+    {
+      "id": "p1515",
+      "name": "【楽天1位獲得】ワイヤレスイヤホンアクセサリー イヤーカフ チェーン ストラップ AirPods 落下防止 紛失防止 ワイヤレスイヤホン用 アクセサリー 落ちない なくさない タッセル ポッキリ 買い周り 買い回り セール マラソン ポイント消化",
+      "genre_id": "567207"
+    },
+    {
+      "id": "p1655",
+      "name": "000円</b></font></td><td width=\"\"33.33%\"\"><font color=\"\"#bf0000\"\"><b>1",
+      "genre_id": null
+    },
+    {
+      "id": "p1839",
+      "name": "/airpodscaff/t-cuff.jpg",
+      "genre_id": "AirPodsAirPodsProワイヤレスイヤホンカフスネックストラップアクセサリー紛失防止落下防止イヤホンイヤリングタッセルデザインゴールドピアス不要メール便送料無料"
+    },
+    {
+      "id": "p1844",
+      "name": "アップルウォッチバンド メンズ ステンレス ビジネス 高級感 Applewatch 1 2 3 4 5 6 SE SE2 Ultra1 Ultra2 ベルト 長さ調節 ドライバー付き スチール 38mm 40mm 42mm 44mm スペア 交換 送料無料",
+      "genre_id": "568380"
+    },
+    {
+      "id": "p2158",
+      "name": "/aw-band/aw-band/t-watchband.jpg",
+      "genre_id": "アップルウォッチバンドApplewatchベルト長さ調節ドライバー付きステンレススチール38mm40mm42mm44mmスペア予備交換ベルトシリーズ6SE全機種対応ビジネス高級感メール便送料無料"
+    },
+    {
+      "id": "p2168",
+      "name": "アップルウォッチバンド シリコン apple watchベルト ラバーバンド おしゃれ アップルウォッチ スポーツバンド人気 スリム くすみ ベージュ ピンク ブルー ホワイト 送料無料",
+      "genre_id": "568380"
+    },
+    {
+      "id": "p2487",
+      "name": "/aw-band/aw-sports-band-t2.jpg",
+      "genre_id": "アップルウォッチバンドAppleWatchスポーツバンドバイカラーラバーバンド38mm40mm42mm44mmスペア予備交換ベルトシリコンシリーズ123456SEメンズレディースギフトメール便送料無料"
+    },
+    {
+      "id": "p2509",
+      "name": "MacBookケース 16インチ クリア PCケース ハードカバー M1 マット放熱 耐衝 軽量 キズ防止 A2485 A2780 A2991 マックブック カバー クリア 16.2 macbook",
+      "genre_id": "559311"
+    },
+    {
+      "id": "p2860",
+      "name": "/pccase/t-mb13-2.jpg",
+      "genre_id": "MacBookAirMacBookPro13.3インチクリア2020PCケースハードカバープラスチックカバーマット衝撃吸収極薄放熱耐衝軽量キズ防止黒グレーハードシェルケースメール便送料無料"
+    },
+    {
+      "id": "p2880",
+      "name": "AirPods3 シリコンケース AirPodsPro2 ケース シリコン 収納ケース付き 6点セット エアーポッズプロ 落下防止 装着充電 第3世代 第2世代 エアーポッズプロ かわいい シンプル 保護 擦り傷防止 Apple 黒 白 青 送料無料",
+      "genre_id": "567199"
+    },
+    {
+      "id": "p3215",
+      "name": "/airpodsprocase/t-ws19-1.jpg",
+      "genre_id": "AirPodsProケースシリコン収納ケース付き6点セットエアーポッズプロ落下防止耐衝撃吸収装着充電可能第2世代エアーポッズプロ黒白青定形外送料無料"
+    },
+    {
+      "id": "p3229",
+      "name": "【最強硬度9H】switch保護フィルム ガラス switch 画面保護シート switchliteフィルム スイッチ ブルーライト 任天堂 有機el 保護フィルム lite ガラスシート switch画面保護フィルム ポッキリ 買い周り 買い回り セール マラソン",
+      "genre_id": "565955"
+    },
+    {
+      "id": "p3525",
+      "name": "/switch-film/t-switch-film-1.jpg",
+      "genre_id": "NintendoSwitchスイッチ画面保護フィルムブルーライト強化ガラスフィルム保護フィルム液晶保護画面保護ニンテンドースイッチ任天堂スイッチテレビゲームガラスフィルム指紋防止飛散防止メール便送料無料"
+    },
+    {
+      "id": "p3532",
+      "name": "【今だけフィルムプレゼント】12promaxケース クリア アイホン12プロマックスカバー 透明アイホーン12プロマックスケース 耐衝撃 携帯カバーiPhone12 グリーン 透明 スマホカバーiPhone12",
+      "genre_id": "560271"
+    },
+    {
+      "id": "p3868",
+      "name": "/iphone-clear2/r-iphone12clear-2.jpg",
+      "genre_id": "iPhone12クリアケーススマホケース枠ありクリアケース3色携帯カバーiPhone12miniiPhone12iPhone12ProiPhone12ProMax保護背面透明耐衝撃黒青緑メール便送料無料"
+    },
+    {
+      "id": "p3883",
+      "name": "iPad mini7 ケース 子供向け ユニコーンデザイン ipadケース 子供 軽量 mini7 6 iPadキッズ 第10世代 ユニコーン iPadカバー 子ども Pro11 カバー Air4 iPadAir5 iPadミニ6 iPad10世代カバー アイパッド かわいい ピンク 送料無料",
+      "genre_id": "560051"
+    },
+    {
+      "id": "p4210",
+      "name": "/unicorn-tab/r-unicorn-case.jpg",
+      "genre_id": "iPadケースキッズユニコーンかわいいシリコンケースストラップ付き子供向けスタンド付きキズ防止衝撃吸収こどもiPad第8世代第7世代7.9インチ9.7インチ10.2インチmini4/mini5/20192020ピンクパープルメール便送料無料"
+    },
+    {
+      "id": "p4230",
+      "name": "【楽天2位】フィットネス水着 セパレート水着 レディース フィットネス 水着 ジム セパレーツ 大きいサイズ 水着 上下 セット シンプル 吸汗 速乾 かわいい きれい 30代 40代 S M L 黒 海外 オトナ ビキニ フードなし 送料無料",
+      "genre_id": "501761"
+    },
+    {
+      "id": "p4591",
+      "name": "/r-woman/t-rushguard-women.jpg",
+      "genre_id": "ラッシュガードレディース長袖大きめUV日焼け止めUPF50+吸汗速乾ツーピースセットフィットネス水着ウェットスーツ水着セパレートかわいい20代30代40代50代SML黒大人体型カバー水着マリンスポーツフィットネスメール便送料無料"
+    },
+    {
+      "id": "p4598",
+      "name": "フィットネス水着 セパレート水着 レディース フィットネス 水着 ジム 大きいサイズ 水着 上下 セット シンプル 吸汗 速乾 かわいい きれい 30代 40代 S M L 白 海外 オトナ ビキニ フードなし 送料無料",
+      "genre_id": "501761"
+    },
+    {
+      "id": "p4944",
+      "name": "/ws-nt1.jpg",
+      "genre_id": "ラッシュガードレディース長袖大きめUV日焼け止めUPF50+吸汗速乾ツーピースセットフィットネス水着ウェットスーツ水着セパレートかわいい20代30代40代50代SML白大人体型カバー水着マリンスポーツフィットネスメール便送料無料"
+    },
+    {
+      "id": "p4951",
+      "name": "【楽天1位獲得】水着 160 女の子 ラッシュガード キッズ 長袖 小学生 上下 ジュニア水着 パット セット水着 男の子 ラッシュガードキッズ 120 130 140 150 兄弟 子ども 幼稚園 ジュニア ガールズ 水着キッズ 子供水着 上下３点セット",
+      "genre_id": "501765"
+    },
+    {
+      "id": "p5312",
+      "name": "/ws-nt5.jpg",
+      "genre_id": "ラッシュガードキッズ上下セット長袖水着男の子女の子パンツスパッツ3点セットUPF50＋紫外線対策外傷予防夏海プール120cm130cm140cm150cm160cmセットアップフードなし裏地胸パット付きショートパンツ幼児小学生兄弟お揃いメール便送料無料"
+    },
+    {
+      "id": "p5320",
+      "name": "【楽天1位獲得】【体温も測れる】ハンド ソープディスペンサー 壁掛け オートソープディスペンサー 自動 泡石鹸  タッチレス ジェル石鹸 浮かせる 大容量 430ml 自動検温 キッチン ソープディスペンサー 自動 泡 壁掛け 充電 非接触 Type-C",
+      "genre_id": "568487"
+    },
+    {
+      "id": "p5863",
+      "name": "/ws-nt3.jpg",
+      "genre_id": "体温計付きハンドソープディスペンサー泡石鹸液体石鹸自動充電式おしゃれ非接触検温430mlLEDディスプレイType-C給電壁掛け定型外便送料無料"
+    },
+    {
+      "id": "p5869",
+      "name": "犬 餌入れ おしゃれ 折りたたみフードボール 犬 ペット フードボウル おしゃれ ネコ フードボール 持ち運び 餌入れ 水入れ 皿 お皿 ウォーターボール 散歩 旅行 トラベル かわいい 折り畳み ポッキリ 買い周り 買い回り セール マラソン ポイント消化",
+      "genre_id": "210756"
+    },
+    {
+      "id": "p6227",
+      "name": "/dogtravel-1/t-dogtravel.jpg",
+      "genre_id": "犬折り畳みフードボール餌入れ飲水入れウォーターボール散歩旅行トラベル持ち運び軽量おしゃれフードボウル餌エサエサ入れ皿お皿ペット水入れ送料無料"
+    },
+    {
+      "id": "p6234",
+      "name": "iPhone13プロ ケース シリコン かわいい スマホカバー スタンド グリップ iPhone13 耐衝撃 シリコン 携帯カバーiPhone オレンジ ピンク ミント ネイビー こども アイホン13プロ ポッキリ 買い回り 買い周り セール マラソン 送料無料 ポイント消化",
+      "genre_id": "560271"
+    },
+    {
+      "id": "p6411",
+      "name": "000円</b></font></td><td width=\"\"33.33%\"\"><font color=\"\"#bf0000\"\"><b>1",
+      "genre_id": null
+    },
+    {
+      "id": "p6595",
+      "name": "/ip-standcase/w-iphone-standcase.jpg",
+      "genre_id": "スマホケーススタンドケースグリップ5色iPhone13miniiPhone13iPhone13ProiPhone13ProMax耐衝撃シリコンケースメール便送料無料"
+    },
+    {
+      "id": "p6619",
+      "name": "iPhone14プラスケース アルミバンパー 両面保護 全面フルカバー iphone14全面保護ケース 両面ガラス 14Plus iphone14プロ 耐衝撃 両面強化ガラス マグネット 携帯カバー ポッキリ 買い回り 買い周り セール マラソン 送料無料 ポイント消化",
+      "genre_id": "560271"
+    },
+    {
+      "id": "p6970",
+      "name": "/ip-magcase/t-ip-mag.jpg",
+      "genre_id": "iPhone13ケース全面保護iPhone13miniスマホケースiPhone13ProMax保護ケースiPhone13Proアイフォン強化ガラスマグネット耐衝撃送料無料"
+    },
+    {
+      "id": "p6998",
+      "name": "【P5倍】【1位獲得】【さらさら 反射防止】iPad フィルム 指紋 つかない ipadmini7 ガラスフィルム ipad11世代 アンチグレア ipad10世代 保護シート さらさら ミニ7 pro11 指紋防止 画面シート 9 8 7 ミニ6 保護フィルム 液晶保護 ゲーム用 ツムツム",
+      "genre_id": "560052"
+    },
+    {
+      "id": "p7161",
+      "name": "280円</b></font></td><td width=\"\"33.33%\"\"><font color=\"\"#bf0000\"\"><b>1",
+      "genre_id": null
+    },
+    {
+      "id": "p7353",
+      "name": "/ipad-film/ipad-tn.jpg",
+      "genre_id": "iPad9保護フィルムアンチグレア10.2インチiPad8iPad7さらさらガラスフィルム強化ガラス液晶保護シート液晶フィルム指紋防止メール便送料無料"
+    },
+    {
+      "id": "p7362",
+      "name": "iPad ケース 360回転 air第5世代ケース ipad pro11 ipadair ipad第5世代カバー Air4ケース ipad第4世代カバー Air4 プロ11 ipadair5ケース ペンシル収納 回転 くすみ 軽量 スタンド ipadair11カバー m2 pro11",
+      "genre_id": "560051"
+    },
+    {
+      "id": "p7722",
+      "name": "/ipadcase/ipadcase-tn2.jpg",
+      "genre_id": "iPadケースiPadAir4iPadmini6iPadPro11縦置き横置き360度回転スタンドアップルペンシル収納カメラカバースタンドカバーおしゃれ軽量送料無料"
+    },
+    {
+      "id": "p7736",
+      "name": "キッズドレス 110 ピンク 110 イエロー 結婚式 子供 ドレス ピアノ発表会 子どもドレス 5才女の子 黄色 ワンピース フォーマル ドレス１１０ 3才 4才 5才 スパンコール 七五三 110cm",
+      "genre_id": "564585"
+    },
+    {
+      "id": "p8115",
+      "name": "/kids-dress/kids-dress-1.jpg",
+      "genre_id": "キッズドレス110ピンク110イエロー結婚式子供ドレスピアノ発表会子どもドレス5才女の子黄色ワンピースフォーマルドレス１１０3才4才5才スパンコール七五三110cm"
+    },
+    {
+      "id": "p8127",
+      "name": "アップルウォッチ フィルム 保護 ガラス40mm AppleWatch 41mm アップルウォッチフィルムガラス 保護シール 日本製ガラスSE 液晶保護フィルム 保護フィルム アップルウォッチフィルム41 AppleWatch ポッキリ 買い周り 買い回り セール マラソン ポイント消化",
+      "genre_id": "568380"
+    },
+    {
+      "id": "p8281",
+      "name": "480円</b></font></td><td width=\"\"33.33%\"\"><font color=\"\"#bf0000\"\"><b>1",
+      "genre_id": null
+    },
+    {
+      "id": "p8448",
+      "name": "/aw-film/r-aw-film.jpg",
+      "genre_id": "AppleWatchガラスフィルム2枚セット3D全面保護強化ガラスアップルウォッチ日本製旭硝子素材456SE7液晶保護フィルム保護フィルムシリーズ"
+    },
+    {
+      "id": "p8456",
+      "name": "USB Type-C ケーブル 240W PD 充電ケーブル 高速充電ケーブル タイプC pd充電 5A 2m iPhoneコード Cタイプ 急速充電 typec スマホ switch 光る コネクタ L字 両端 両方 データ通信 480Mbps LED付き 180度回転",
+      "genre_id": "565187"
+    },
+    {
+      "id": "p8838",
+      "name": "/6in1/ws002-1.jpg",
+      "genre_id": "充電ケーブルマグネット6in1急速充電60WorldSelect5A1m1.8mデータ転送iPhoneケーブルTypeCマイクロUSBiPhoneケーブル3in1送料無料"
+    },
+    {
+      "id": "p8844",
+      "name": "MacBook 画面フィルム 16インチ m4 ｍacBookPro 液晶保護シート 14インチ マックブックプロ保護フィルム ブルーライトカット アンチグレア 紫外線カット マックブック画面シート m3 m2 m1 2024 送料無料",
+      "genre_id": "211543"
+    },
+    {
+      "id": "p8886",
+      "name": "M2",
+      "genre_id": null
+    },
+    {
+      "id": "p9050",
+      "name": "M2",
+      "genre_id": null
+    },
+    {
+      "id": "p9189",
+      "name": "/mb-antiglare/t-mb-antiglare2.jpg",
+      "genre_id": "MacBookAirｍacBookPro14.213.316.2インチ保護フィルムブルーライトカットアンチグレア画面保護フィルター液晶保護シート紫外線カット"
+    },
+    {
+      "id": "p9196",
+      "name": "扇風機 小型 かわいい 子ども 首掛け扇風機 腰掛け扇風機 羽なし 扇風機 首かけ 首かけ扇風機 ミニファン 携帯扇風機 卓上 カメラ型 usb 充電式 3段階風力調節 静音 軽量 おしゃれ 携帯 コンパクト 涼しい アウトドア 白 ピンク グリーン あす楽",
+      "genre_id": "552448"
+    },
+    {
+      "id": "p9621",
+      "name": "/fan-2/fan-2-1.jpg",
+      "genre_id": "扇風機首かけ首掛け扇風機首かけ扇風機USB充電冷感2022軽量おしゃれ小型子供軽いカメラ型くすみカラーレトロ送料無料"
+    },
+    {
+      "id": "p9628",
+      "name": "ガジェットポーチ 防水 トラベルポーチ 収納バッグ 収納ケース マルチポーチ ゲーム カメラポーチ 軽量 ケーブル 小物入れ 旅行 化粧ポーチ デジタル小物 おしゃれ 送料無料 あす楽",
+      "genre_id": "567180"
+    },
+    {
+      "id": "p9960",
+      "name": "/ws54/ws54-1.jpg",
+      "genre_id": "ガジェットポーチ防水トラベルポーチ収納バッグ収納ケースマルチポーチゲームカメラポーチ充電器軽量小分けケーブル小物入れ旅行収納化粧ポーチデジタル小物おしゃれ撥水加工ダークグレイバッテリーコンパクト"
+    },
+    {
+      "id": "p9965",
+      "name": "二つ折り財布 コンパクト財布 財布 ミニ 薄型 コンパクトウォレット スキミング防止 メンズ スリム財布 カード入れ シンプル おしゃれ プレゼント マネークリップ クレジットカードケース 二つ折り ギフト 免許証入れ 財布ミニ",
+      "genre_id": "552710"
+    },
+    {
+      "id": "p10234",
+      "name": "/ws56/t-ws56-n1.jpg",
+      "genre_id": "【楽天スーパーセール限定P20倍】父の日カードケースミニ財布ミニウォレットメンズレディーススリム薄型スキミング防止おしゃれカード入れプレゼントマネークリップスライド式"
+    },
+    {
+      "id": "p10243",
+      "name": "MacBook Pro ケース 15インチ A1707 A1990 ハードケース Pro15インチ おしゃれ MacBookカバー Pro13 ハードカバー スタンド付き M1 M2 A2686 A1706 A1708 A1989 A2159 A2289 A2251 A2338 A1707 A1990 マックブックプロ エア",
+      "genre_id": "559311"
+    },
+    {
+      "id": "p10596",
+      "name": "/ws64/t-ws64-1.jpg",
+      "genre_id": "MacBookAirPro1315インチおしゃれケーススタンド３段階ハンドル持ち手防水薄型軽量傷防止スタンド付きシェルカバー保護ケースマックブックハードケースM11932/A2179A1706/A1708/A1989/A2159A1707/A2017/A1990"
+    },
+    {
+      "id": "p10606",
+      "name": "ワイヤレス充電器 3in1 iPhone Android AppleWatch MagSafe対応 Qi対応 スマホ ワイヤレスチャージャー 急速充電 15W 置くだけ充電 3台同時 持ち運び 便利 スマホスタンド 携帯充電 iPhone16 iPhone15 iPhone14",
+      "genre_id": "567248"
+    },
+    {
+      "id": "p11159",
+      "name": "/ws70/ws70n-1.jpg",
+      "genre_id": null
+    },
+    {
+      "id": "p11163",
+      "name": "【職人の手でひとつひとつ手作業】AppleWatchバンド エスニック レディース アップルウォッチベルト ブレスレット 42 44 45 mm ウォッチバンド 天然石 かわいい オシャレ 手作り ボヘミアンスタイル エスニック ホボ 天然素材",
+      "genre_id": "568380"
+    },
+    {
+      "id": "p11510",
+      "name": "/t-ws71.jpg",
+      "genre_id": "【送料無料】AppleWatch1/2/3/4/5/6/7/SEシリーズ38mm40mm41mm42mm44mm45mmアップルウォッチブレスレットバンドベルトレディースメンズ天然石かわいいオシャレ手作り"
+    },
+    {
+      "id": "p11516",
+      "name": "ワイヤレス充電器 iPhone 急速 15W充電 iPhone16/15/14/13/12 マグセーフ充電器 スタンド マグネット充電器 磁石 ピタッと magsafe充電器 スタンド Qi急速充電 ワイヤレスチャージャー アイフォン充電器 過充電防止",
+      "genre_id": "567248"
+    },
+    {
+      "id": "p11715",
+      "name": "480円</b></font></td><td width=\"\"33.33%\"\"><font color=\"\"#bf0000\"\"><b>2",
+      "genre_id": null
+    },
+    {
+      "id": "p11913",
+      "name": "/magsafe2-t2.jpg",
+      "genre_id": "【送料無料】ワイヤレス充電器MagSafe充電器iPhone1312スタンド付き15Wスタンドマグセーフケーブルの取り外し可能軽量セパレートケーブル付属"
+    },
+    {
+      "id": "p11919",
+      "name": "iPhone14Plusケース クリア MagSafe対応 iPhone14ケース スマホカバー14プラス スマホケース14プラス スタンド 携帯カバー マグネット カバー ワイヤレス充電対応ケース 14プラスケース シンプル 透明",
+      "genre_id": "560271"
+    },
+    {
+      "id": "p12164",
+      "name": "/ws83/t-ws83-n2.jpg",
+      "genre_id": "【送料無料】iPhone14ケースクリアケースMagSafeiPhone14ProiPhone14MaxiPhone14PromaxマグセーフクリアケースマグネットiPhoneケース衝撃吸収"
+    },
+    {
+      "id": "p12172",
+      "name": "【ガイド枠付きでキレイに貼れる2枚入り】applewatch 保護シール 4/5/6/7/8/9/SE/SE2 液晶フィルム アップルウォッチ保護フィルム キット 44 41 40 mm 3D 保護 取付簡単 プロテクターフィルム apple watch保護フィルム 画面シール",
+      "genre_id": "568380"
+    },
+    {
+      "id": "p12546",
+      "name": "/w-ws84-1.jpg",
+      "genre_id": "【送料無料】【あす楽】AppleWatchガラスフィルムキット45mm44mm41mm40mm3Dガイド枠付き保護取付簡単アップルウォッチ強化ガラスフィルム2枚入りアップルウォッチ"
+    },
+    {
+      "id": "p12554",
+      "name": "アップルウォッチ レザー ベルト アップルウォッチバンド 45mm 44mm 42mm SE Apple Watchベルト 本革 おしゃれ ビジネス ヴィンテージ 男性 女性 メンズ レディースレザー applewatch9/8/7/6/5/4/3/2/1/SE/SE2/Ultra1/Ultra2",
+      "genre_id": "568380"
+    },
+    {
+      "id": "p12847",
+      "name": "/ws85/t-ws85.jpg",
+      "genre_id": "【送料無料】アップルウォッチバンド45mm44mm42mmSE革AppleWatch765432seベルトスポーツ本革レザーおしゃれビジネス男性女性メンズレディース"
+    },
+    {
+      "id": "p12857",
+      "name": "iPhoneケース カード収納 メンズ 14プラス 14プロ 14ProMax カバー 財布分離型 マグネット 携帯カバー アイフォン14ケース スマホカバー アイホン14カバー 人気 iphoneケース 財布 薄型 黒 赤 ブラウン グリーン",
+      "genre_id": "560271"
+    },
+    {
+      "id": "p13028",
+      "name": "736円</b></font></td><td width=\"\"33.33%\"\"><font color=\"\"#bf0000\"\"><b>1",
+      "genre_id": null
+    },
+    {
+      "id": "p13237",
+      "name": "/ws88/t-88-1.jpg",
+      "genre_id": "【送料無料】【あす楽】iPhone14ケースカバーカード収納財布分離型カバーマグネット式携帯カバー内蔵マグネットスタンド機能指紋防止落下防止suicaカードICカード薄型軽量取り外し可能"
+    },
+    {
+      "id": "p13261",
+      "name": "アップルウォッチバンド 液晶保護 カバー付 キラキラ ラインストーン applewatchカバー フォーマル レディース 45 44 41 40 mm 女性 細見え カジュアル デート 高級 おしゃれ ブラック シルバー ローズゴールド 送料無料",
+      "genre_id": "568380"
+    },
+    {
+      "id": "p13436",
+      "name": "000円</b></font></td><td width=\"\"33.33%\"\"><font color=\"\"#bf0000\"\"><b>3",
+      "genre_id": null
+    },
+    {
+      "id": "p13629",
+      "name": "/ws93/t-ws93-5.jpg",
+      "genre_id": "【送料無料】AppleWatch8バンド45444140ステンレスバンド女性レディースapplewatchステンレス7654seultraお出かけプレゼントビジネスデートキラキラ高級おしゃれ"
+    },
+    {
+      "id": "p13645",
+      "name": "iPhone14ケース フルカバー 薄型 フィルム不要ケース アイフォン14保護カバー 強化ガラス 軽量 14plus 14pro 14promax クリア 360度°両面 全面保護マグネットケース 1000円ポッキリ ポッキリ 買い回り 買い周り セール マラソン 送料無料 ポイント消化",
+      "genre_id": "560271"
+    },
+    {
+      "id": "p13982",
+      "name": "/ws102/t-ws102-1.jpg",
+      "genre_id": "iPhone13ケース全面保護iPhone13miniスマホケースiPhone13ProMax保護ケースiPhone13Proアイフォン強化ガラスマグネット耐衝撃送料無料"
+    },
+    {
+      "id": "p13994",
+      "name": "アップルウォッチ バンド キラキラ パール AppleWatch ベルト 45mm 44mm 41mm 40mm 42mm 38mm ステンレス 女性 レディース お出かけ フォーマル ゴージャス かわいい 結婚式 1/2/3/4/5/6/7/8/9/SE/SE2/Ultra1/Ultra2バンド 送料無料",
+      "genre_id": "568380"
+    },
+    {
+      "id": "p14305",
+      "name": "/ws104/t-ws104.jpg",
+      "genre_id": "【ポイントアップ中！】アップルウォッチバンドAppleWatch８バンド45444140ステンレス女性レディースapplewatchステンレス7654seultraお出かけプレゼントパーティ―かわいいキラキラ結婚式送料無料"
+    },
+    {
+      "id": "p14317",
+      "name": "アップルウォッチバンド キラキラ レディース AppleWatchベルト ステンレス お出かけ 女性 フォーマル ゴージャス かわいい 上品 おしゃれ 細見え パーティー ジュエリー 女性 カバー ラインストーン おしゃれ チェーン 高級 ゴールド ブラック シルバー",
+      "genre_id": "568380"
+    },
+    {
+      "id": "p14712",
+      "name": "/ws105/t-ws105.jpg",
+      "genre_id": "【送料無料】AppleWatch８バンド45444140ステンレスバンド女性レディースapplewatchステンレス7654seultraお出かけプレゼントパーティ―かわいいキラキラ結婚式クリスマスクラウン"
+    },
+    {
+      "id": "p14724",
+      "name": "【1本でiPhone2台同時】3in1充電ケーブル 急速 充電ケーブル USBケーブル 三又 スマホ充電ケーブル 急速 1.2m タイプC Android用充電ケーブル iPhone充電ケーブル 3本同時充電 携帯コード iphone17 16 15 充電コード 3A Type-C シルバー",
+      "genre_id": "565187"
+    },
+    {
+      "id": "p14925",
+      "name": "000円</b></font></td><td width=\"\"33.33%\"\"><font color=\"\"#bf0000\"\"><b>590円</b></font></td></tr></table><!--TJ R PC-->\"",
+      "genre_id": null
+    },
+    {
+      "id": "p15130",
+      "name": "/ws107/ws107t-n.jpg",
+      "genre_id": "【ポイントアップ中！】iPhone充電ケーブルスマホライトニングケーブルtypeC3in1ケーブル３A急速３種同時iPhoneケーブルiPhone同時アイフォーンiPad最大3A1.2.mスマホ充電ケーブル"
+    },
+    {
+      "id": "p15136",
+      "name": "iphoneケース 肩がけ 14pro 13pro 12 se iphoneケース ショルダー 手帳型  iphone13 ショルダー ストラップ 携帯カバー肩掛け 大人かわいい アイホン13プロ アイフォン14プロ 紐付き iphoneケースse iphone12 ミラー付き オレンジ ピンク ブラック ホワイト",
+      "genre_id": "560271"
+    },
+    {
+      "id": "p15445",
+      "name": "/ws108/t-ws108.jpg",
+      "genre_id": "【送料無料】スマホショルダーケーススマホショルダーストラップiphone14ケースiphone13ケースiphone12ケースiPhoneSEケースアイフォン13肩掛け斜め掛けおしゃれかわいいシンプル"
+    },
+    {
+      "id": "p15489",
+      "name": "リュック メンズ ビジネス 15.6インチ おしゃれ ビジネスリュック 通勤バッグ 通学バッグ大容量 超軽量 防水 撥水加工 耐摩耗 汚れ防止 パソコン 3WAY ノートPC バイク 通勤 通学 出張 旅行 収納 ブラック グレー シンプル 560g あす楽",
+      "genre_id": "110976"
+    },
+    {
+      "id": "p15811",
+      "name": "/ws101/t-ws101.jpg",
+      "genre_id": "【あす楽】【送料無料】PCリュックビジネスリュック通勤バッグビジネス3WAYノートPCバイク通勤通学出張旅行収納ブラックグレーシンプル"
+    },
+    {
+      "id": "p15817",
+      "name": "iPhoneフィルム 覗き見防止 17 16e 16 15 14 ガラスフィルム 覗きみ 12promax iPhone16Pro 16promax アイフォン プライバシー のぞき見防止 横から見えない ガラスシート 画面フィルム 指紋防止",
+      "genre_id": "560278"
+    },
+    {
+      "id": "p16052",
+      "name": "289円</b></font></td><td width=\"\"33.33%\"\"><font color=\"\"#bf0000\"\"><b>1",
+      "genre_id": null
+    },
+    {
+      "id": "p16266",
+      "name": "289円</b></font></td></tr></table><!--TJ R SP-->\"",
+      "genre_id": null
+    },
+    {
+      "id": "p16282",
+      "name": "/ws112n-t2.jpg",
+      "genre_id": "【送料無料】iPhoneフィルムガラスフィルムiPhone14SE13proMaxplus12miniSE3SE2(第三/第二世代)iPhoneSE1187plusXRXSアイフォンフルカバープライバシーのぞき見防止360度保護フィルム"
+    },
+    {
+      "id": "p16301",
+      "name": "iPhone14ProMaxケース MagSafe充電対応カバー マグネット iPhone12promax マグセーフケース 13promax リング付きケース 13proケース MagSafe スマホカバー マグセーフ 14プラス 14プロ ワイヤレス充電対応",
+      "genre_id": "560271"
+    },
+    {
+      "id": "p16668",
+      "name": "/ws115/t-ws115.jpg",
+      "genre_id": "【ポイントアップ中！】【あす楽】iPhoneケースmagsafe対応リングケースiPhone14ProケースmagsafeカバーiPhone13ProMaxiPhone14PlusケースおしゃれアイフォンiPhone12アイフォンアイフォーンシンプル衝撃吸収2023新型送料無料"
+    },
+    {
+      "id": "p16712",
+      "name": "ICカードリーダー 確定申告 マイナンバー対応 Type-C ライター マイナポイント ICチップ SD MicroSD SIM e-Tax Windows Mac 対応",
+      "genre_id": "408453"
+    },
+    {
+      "id": "p17194",
+      "name": "/ws0004/t-0004n.jpg",
+      "genre_id": "ICカードリーダーマイナンバー対応ライターマイナポイントICチップ住民基本台帳カード電子申告SDMicroSDSIM多機能USB接続e-Tax国税電子申告USBマルチメール便送料無料"
+    },
+    {
+      "id": "p17202",
+      "name": "【楽天1位 もうMicroUSBいらない】typeC 2つ マルチケーブル 3in1ケーブル 急速 type-cケーブル 業務用 USB 充電器 タイプC 三又 TypeC 充電 iPhone16対応 同時充電 ライトニング Switch 5A 1m 三又 急速充電 3in1充電ケーブル ブラック 法人 まとめ買い 大量購入 オフィス",
+      "genre_id": "565187"
+    },
+    {
+      "id": "p17423",
+      "name": "880円</b></font></td><td width=\"\"33.33%\"\"><font color=\"\"#bf0000\"\"><b>1",
+      "genre_id": null
+    },
+    {
+      "id": "p17650",
+      "name": "/0005/3in2-top.jpg",
+      "genre_id": "充電ケーブルusbtypecケーブル高速データ転送3in1ケーブル40W急速充電ライトニングタイプCLightningTypeCケーブルタイプCケーブル1.2m"
+    },
+    {
+      "id": "p17655",
+      "name": "ワイヤレス充電器 Apple Watch 充電器  AirPods充電器  AppleWatch/Airpods ２in1 持ち運び ワイヤレス急速 高速充電 アップルウォッチ AirPods 2/AirPods 3/Air PodsPro Type-C ケーブル不要 置くだけ充電 Qi対応 Wireless 送料無料",
+      "genre_id": "567248"
+    },
+    {
+      "id": "p17737",
+      "name": "5v/1A<br></p>",
+      "genre_id": null
+    },
+    {
+      "id": "p17947",
+      "name": "5v/1A<br></p>",
+      "genre_id": null
+    },
+    {
+      "id": "p18090",
+      "name": "/worldselect0003/t-worldselect0003.jpg",
+      "genre_id": "【ポイントアップ中！】AppleWatch充電器AirPods充電器Watch/Airpods２in1持ち運びワイヤレス急速高速充電アップルウォッチAirPods2/AirPods3/AirPodsProType-Cケーブル不要置くだけ充電Qi対応Wireless送料無料"
+    },
+    {
+      "id": "p18096",
+      "name": "ギャラクシー 手帳型 A22 5G S21 耐衝撃 携帯カバー  Galaxy A22 5G S21 スマホケース レザー ピタッと 海外版ギャラクシー a22 Galaxy SC-56B SC-51B SM-A226 シンプル 送料無料",
+      "genre_id": "560271"
+    },
+    {
+      "id": "p18217",
+      "name": "000円</b></font></td><td width=\"\"33.33%\"\"><font color=\"\"#bf0000\"\"><b>1",
+      "genre_id": null
+    },
+    {
+      "id": "p18374",
+      "name": "/galaxy/t-galaxy.jpg",
+      "genre_id": "GalaxyA225G手帳ケース手帳型ケースPUレザースマホケース携帯カバー多機能マグネット開閉ギャラクシーa22ブックケース"
+    },
+    {
+      "id": "p18390",
+      "name": "Xperia5 II 手帳型ケース ブラック ブラウン レッド Xperia5iiケース 1lllケース Xperia5 カバー SO52A SOG02 SO51B SOG02 エクスペリア ケース Xperia1lll エクスペリア 1lll レザー シンプル アンドロイド携帯カバー",
+      "genre_id": "560271"
+    },
+    {
+      "id": "p18505",
+      "name": "246円</b></font></td><td width=\"\"33.33%\"\"><font color=\"\"#bf0000\"\"><b>1",
+      "genre_id": null
+    },
+    {
+      "id": "p18655",
+      "name": "/xperia/t-xperia.jpg",
+      "genre_id": "Xperia5IIケース手帳型Xperia5IIエクスペリア5IIPUレザー携帯カバーカード収納スタンド機能シンプルケース多機能メール便送料無料"
+    },
+    {
+      "id": "p18667",
+      "name": "マグセーフ iphoneケース iPhone13promax ケース 手帳型 マグセーフ対応 iPhone14ケース 手帳型 スマホカバー  14Plus 14ProMax アイフォンケース ブラック 手帳型 マグセーフ携帯カバー 13pro マグネット ビジネス シンプル 置くだけ充電対応",
+      "genre_id": "560271"
+    },
+    {
+      "id": "p19010",
+      "name": "/mg-bookcase/t-0009.jpg",
+      "genre_id": "MagSafe対応iPhone12ケース手帳型高級PUレザーカード収納マグネット開閉ワイヤレス充電iマグセーフQi規格Phone12iPhone12ProProMax黒青シンプル父の日プレゼント2021メール便送料無料"
+    },
+    {
+      "id": "p19021",
+      "name": "Type-C to Type-C ケーブル 2m 高速 pdケーブル iPhone充電用 タイプCケーブル iPhone17 1m 急速充電 180度回転 Type-C USB3.0 100W 5A 20Gbpsデータ転送 L字型 Android Switch タイプC 高速充電ケーブルTypeC ブラック 光る",
+      "genre_id": "565187"
+    },
+    {
+      "id": "p19379",
+      "name": "/ws78/t-ws78-1.jpg",
+      "genre_id": "【送料無料】pdケーブルL字type-cusb1.8m充電ケーブルUSB3.1Gen2USBCType-CPDケーブル充電ケーブルタイプcケーブル高速データ転送eMarker内臓4K60Hz"
+    },
+    {
+      "id": "p19385",
+      "name": "【楽天1位獲得】USB4ケーブル 短い USB Type-C Thunderbolt4 急速充電対応 100W 40Gbps 高速データ転送 8K 映像出力 MacBook iPad iPhone17 対応 0.2m 20cm 50cm 1m 2m 選べる長さ ブラック",
+      "genre_id": "565187"
+    },
+    {
+      "id": "p19744",
+      "name": "/ws49/t-ws49-3.jpg",
+      "genre_id": "サンダーボルト4PDケーブル2m40GbpsUSB4.0Thunderbolt4高速データ転送急速充電100WUSB4.05A5K60Hz映像出力MacBookProM1お買い物マラソン限定P10倍"
+    },
+    {
+      "id": "p19752",
+      "name": "【楽天1位獲得】Thunderboltケーブル 高速充電 映像出力 Cタイプケーブル 100W USB typeC PD 高速データ転送 Type-C USB Type-C 急速充電 パソコン充電 1m 50cm 40Gbps USB3.1 Gen2 4K PD対応 MacBook ipad 11/12.9 ipad air5 mini6 7 iPhone16 15 対応",
+      "genre_id": "565187"
+    },
+    {
+      "id": "p20101",
+      "name": "/thunderbolt-cable/t-thunderbolt-n.jpg",
+      "genre_id": "サンダーボルト3ケーブルThunderbolt3ケーブル40Gbps高速データ転送USBTypeCtotype-c急速充電100WUSB4USB3.1Gen25K60Hz映像出力E-Marker1m2021MacBookProM1メール便送料無料"
+    },
+    {
+      "id": "p20107",
+      "name": "【オフィスに最適】typeC 2つ マルチケーブル 3in1ケーブル 急速 type-cケーブル 業務用 USB 充電器 タイプC 三又 TypeC 充電 iPhone16対応 同時充電 ライトニング Switch 5A 1m 三又 急速充電 3in2充電ケーブル ブラック 法人 まとめ買い 大量購入 オフィス",
+      "genre_id": "565187"
+    },
+    {
+      "id": "p20543",
+      "name": "/0005/t-ws0005-1.jpg",
+      "genre_id": "充電ケーブルusbtypecケーブル高速データ転送3in1ケーブル40W急速充電ライトニングタイプCLightningTypeCケーブルタイプCケーブル1.2m"
+    },
+    {
+      "id": "p20545",
+      "name": "USBケーブル 3in1 急速 タイプC Cタイプ 充電ケーブル iPhone iPad 同時充電 スマホ Lightning typeC1本 3in1 マルチ ケーブル ライトニング3in1 3A 急速 3本同時充電 iPhoneケーブル iPhone2台同時 アイフォーン iPad 3A 1m 送料無料",
+      "genre_id": "565187"
+    },
+    {
+      "id": "p20993",
+      "name": "/ws107/ws107-t11.jpg",
+      "genre_id": "【ポイントアップ中！】iPhone充電ケーブルスマホライトニングケーブルtypeC3in1ケーブル３A急速３種同時iPhoneケーブルiPhone同時アイフォーンiPad最大3A1.2.mスマホ充電ケーブル"
+    },
+    {
+      "id": "p20995",
+      "name": "phone 15 14 バンパーケース 耐衝撃 マグセーフ リング iPhone16 アルミ バンパー メタルバンパー Z 軽量ケース 16Promax ハードケース MagSafe iPhone16Proケース アルミニウム アルミ合金 360°回転 簡単装着 アルミ 高級 フレームレス ブラック ブルー ゴールド",
+      "genre_id": "560271"
+    },
+    {
+      "id": "p21180",
+      "name": "890円</b></font></td><td width=\"\"33.33%\"\"><font color=\"\"#bf0000\"\"><b>2",
+      "genre_id": null
+    },
+    {
+      "id": "p21370",
+      "name": "/ip0014-t3.jpg",
+      "genre_id": "【ポイントアップ中！】【あす楽】iPhoneケースmagsafe対応リングケースiPhone14ProケースmagsafeカバーiPhone13ProMaxiPhone14PlusケースおしゃれアイフォンiPhone12アイフォンアイフォーンシンプル衝撃吸収2023新型送料無料"
+    },
+    {
+      "id": "p21414",
+      "name": "Google pixel 7pro フィルム 8a 指紋認証対応 Google Pixel9 ガラスフィルム Pixel8a 強化ガラス Pixel9 pro フィルム グーグルピクセル 8A 7a 7 Pixel8 9pro XL 保護フィルム 指紋つかない 8a 7a 液晶保護フィルム",
+      "genre_id": "560278"
+    },
+    {
+      "id": "p21718",
+      "name": "/ws0015/ws0015-t3.jpg",
+      "genre_id": "iPhone1211Xガラスフィルム保護フィルム超さらさらアンチグレアゲームに最適マット強化ガラスiPhone12miniiPhone12iPhone12ProiPhone12ProMaxiPhone11XRProXXSProMaxXSmaxメール便送料無料"
+    }
+  ]
+}

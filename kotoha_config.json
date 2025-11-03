@@ -1,0 +1,16 @@
+{
+  "PROJECT_NAME": "KOTOHA ENGINE",
+  "VERSION": "1.4",
+  "OUTPUT_DIR": "./",
+  "KEEP_INTERMEDIATE": true,
+  "DEFAULT_ENCODING": "cp932",
+  "MAX_CONCURRENCY": 6,
+  "LOG_LEVEL": "INFO",
+  "TIMESTAMP": "2025-10-30 16:06:55",
+  "MODULES": {
+    "data_loader": "config/modules/data_loader.json",
+    "template_composer": "config/modules/template_composer.json",
+    "ai_refiner": "config/modules/ai_refiner.json",
+    "evaluator": "config/modules/evaluator.json"
+  }
+}

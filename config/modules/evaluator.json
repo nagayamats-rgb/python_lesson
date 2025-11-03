@@ -1,0 +1,9 @@
+{
+  "description": "出力文の品質分析・スコアリング",
+  "report_file": "evaluation_report.csv",
+  "metrics": [
+    "readability",
+    "seo_density",
+    "uniqueness"
+  ]
+}
