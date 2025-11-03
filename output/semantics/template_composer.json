@@ -1,8 +1,3 @@
-{
-  "hints": [
-    "スペック→強み→対象→シーン→便益",
-    "互換性・対応機種の明記",
-    "サイズ感・重量・素材などの客観情報",
-    "“何がどう便利か”を1文で伝える"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4c2fbe05c285c04bdca19d4731c40589cf6ad50b7d672236c6c8f65ef2e0151
+size 232
