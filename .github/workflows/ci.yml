@@ -1,3 +1,4 @@
+# .github/workflows/ci.yml
 name: CI
 
 on:
@@ -10,6 +11,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -25,12 +28,26 @@ jobs:
           pip install -r requirements.txt || true
           pip install python-dotenv pandas requests beautifulsoup4 lxml loguru tqdm pyyaml openpyxl
 
+      - name: List repo (for debugging where files are)
+        shell: bash
+        run: |
+          echo "::group::top level"
+          ls -la
+          echo "::endgroup::"
+          echo "::group::two levels"
+          find . -maxdepth 2 -type f | sort
+          echo "::endgroup::"
+
       - name: Dry-run import & files check (no API calls)
         shell: bash
         run: |
           python - <<'PY'
           import os, sys, importlib
-          required_paths = [
+
+          # 探索ルート：直下と python_lesson/ の両にらみ
+          ROOTS = [".", "python_lesson"]
+
+          REQUIRED = [
             "crawler_v4_api.py",
             "syntactic_extractor_v3.py",
             "alt_sentence_finalize.py",
@@ -40,13 +57,33 @@ jobs:
             "sauce/YAHOO_Format.csv",
             "sauce/Rakuten_Format.csv",
           ]
-          missing = [p for p in required_paths if not os.path.exists(p)]
-          if missing:
-              print("MISSING FILES:", ", ".join(missing))
-              sys.exit(1)
 
-          for m in ["crawler_v4_api","syntactic_extractor_v3","alt_sentence_finalize","alt_sentence_clamp"]:
-              importlib.import_module(m)
+          resolved = {}
+          missing = []
+
+          def first_existing(relpath):
+            for r in ROOTS:
+              p = os.path.join(r, relpath)
+              if os.path.exists(p):
+                return os.path.normpath(p)
+            return None
+
+          for rel in REQUIRED:
+            hit = first_existing(rel)
+            if hit: resolved[rel] = hit
+            else:   missing.append(rel)
+
+          if missing:
+            print("MISSING FILES:", ", ".join(missing))
+            raise SystemExit(1)
+
+          # .py が格納されているディレクトリを import パスに追加
+          py_dir = os.path.dirname(resolved["crawler_v4_api.py"]) or "."
+          if py_dir not in sys.path:
+            sys.path.insert(0, py_dir)
+
+          for mod in ["crawler_v4_api","syntactic_extractor_v3","alt_sentence_finalize","alt_sentence_clamp"]:
+            importlib.import_module(mod)
 
           print("imports ok")
           PY
