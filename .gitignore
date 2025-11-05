@@ -1,0 +1,10 @@
+# secrets
+.env
+
+# run artifacts
+/output/
+/debug/
+/*.jsonl
+*.log
+*.tmp
+.DS_Store
