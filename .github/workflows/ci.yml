@@ -1,0 +1,52 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  lint-and-dryrun:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+          cache: "pip"
+
+      - name: Upgrade installer
+        run: python -m pip install -U pip setuptools wheel
+
+      - name: Install project deps (tolerate extras missing)
+        run: |
+          pip install -r requirements.txt || true
+          pip install python-dotenv pandas requests beautifulsoup4 lxml loguru tqdm pyyaml openpyxl
+
+      - name: Dry-run import & files check (no API calls)
+        shell: bash
+        run: |
+          python - <<'PY'
+          import os, sys, importlib
+          required_paths = [
+            "crawler_v4_api.py",
+            "syntactic_extractor_v3.py",
+            "alt_sentence_finalize.py",
+            "alt_sentence_clamp.py",
+            "sauce/yahoo.csv",
+            "sauce/rakuten.csv",
+            "sauce/YAHOO_Format.csv",
+            "sauce/Rakuten_Format.csv",
+          ]
+          missing = [p for p in required_paths if not os.path.exists(p)]
+          if missing:
+              print("MISSING FILES:", ", ".join(missing))
+              sys.exit(1)
+
+          for m in ["crawler_v4_api","syntactic_extractor_v3","alt_sentence_finalize","alt_sentence_clamp"]:
+              importlib.import_module(m)
+
+          print("imports ok")
+          PY
