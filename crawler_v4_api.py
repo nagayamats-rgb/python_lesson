@@ -318,7 +318,7 @@ def process_source(source: str, input_path: str, env: Dict[str, str], args) -> D
     out_dir = env.get("OUTPUT_DIR", "output/semantics")
     log_dir = env.get("LOG_DIR", "output/logs")
     dbg_dir = env.get("DEBUG_DIR", "debug")
-    ensure_dirs([out_dir, log_dir, dbg_dir, f"{dbg_dir}/html"])
+    ensure_dirs([out_dir, log_dir, dbg_dir, f"{dbg_dir}debug/"])
 
     logger.info(f"[crawler_v4_api] source={source} input={input_path}")
     logger.info(f"mode={'api'} allow_fallback_csv=True")
@@ -393,7 +393,7 @@ def process_source(source: str, input_path: str, env: Dict[str, str], args) -> D
         # HTML保存（任意）
         if args.save_html and html:
             hid = f"{source}_{sha1(url)}.html"
-            Path(f"{dbg_dir}/html/{hid}").write_text(html, encoding="utf-8")
+            Path(f"{dbg_dir}debug//{hid}").write_text(html, encoding="utf-8")
 
         # HTML → name/desc/images
         name, desc_blocks, images = parse_detail_from_html(html)
